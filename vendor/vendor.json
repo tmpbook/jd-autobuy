@@ -53,7 +53,7 @@
 			"revisionTime": "2017-06-18T05:18:41Z"
 		},
 		{
-			"checksumSHA1": "00eQaGynDYrv3tL+C7l9xH0IDZg=",
+			"checksumSHA1": "z79z5msRzgU48FCZxSuxfU8b4rs=",
 			"path": "golang.org/x/net/html/atom",
 			"revision": "fe686d45ea04bc1bd4eff6a52865ce8757320325",
 			"revisionTime": "2017-06-18T05:18:41Z"
@@ -72,5 +72,5 @@
 			"revisionTime": "2018-04-24T23:11:46Z"
 		}
 	],
-	"rootPath": "github.com/Adyzng/go-jd"
+	"rootPath": "github.com/tmpbook/jd-autobuy"
 }
