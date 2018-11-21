@@ -8,7 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tmpbook/jd-autobuy/core"
+	"jd-autobuy/core"
+
 	clog "gopkg.in/clog.v1"
 )
 
