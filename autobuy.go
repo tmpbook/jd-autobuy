@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Adyzng/go-jd/core"
+	"github.com/tmpbook/jd-autobuy/core"
 	clog "gopkg.in/clog.v1"
 )
 

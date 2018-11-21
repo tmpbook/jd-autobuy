@@ -1,6 +1,9 @@
 FROM golang:1.11.2
 WORKDIR /go/src/github.com/tmpbook/jd-autobuy/
-COPY * .
+COPY core/ .
+COPY vendor/ .
+COPY autobuy.go .
+
 RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o app .
 
 FROM alpine:latest
